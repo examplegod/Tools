@@ -9,3 +9,9 @@
 
 # APP
 * ## Docker
+
+
+# bootable USB
+* ## Etcher 
+* ## Rufus
+
